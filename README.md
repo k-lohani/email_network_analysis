@@ -22,4 +22,4 @@ Used modularity and conductance metrics along with visualization to narrow down 
 - Girvan-Newman Algorithm (Level 20 with 21 communities) with the modularity of 0.94 and conductance of 0.005. 
 - Girvan-Newman was chosen the best instead of Louvain (modularity- 0.97) due to the conductance of Louvain (0.015) being higher
 2. <strong>Worst performing community detection model</strong><br>
-Markov Clustering Algorithm (Communities - 633) with the modularity of 0.001 and conductance of 0.26.
+- Markov Clustering Algorithm (Communities - 633) with the modularity of 0.001 and conductance of 0.26.
